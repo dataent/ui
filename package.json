@@ -1,0 +1,36 @@
+{
+  "name": "dataent.ui",
+  "version": "0.1.0",
+  "description": "Front-End Framework for ones with deadlines.",
+  "main": "package.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dataent/ui.git"
+  },
+  "keywords": [
+    "dataent",
+    "ui",
+    "bootstrap",
+    "jquery",
+    "design"
+  ],
+  "author": "Dataent Developers <developers@dataent.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dataent/ui/issues"
+  },
+  "homepage": "https://github.com/dataent/ui#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.0",
+    "eslint": "^4.8.0",
+    "eslint-config-airbnb": "^15.1.0",
+    "rollup": "^0.50.0",
+    "rollup-plugin-node-resolve": "^3.0.0",
+    "uglify-js": "^3.1.3"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
